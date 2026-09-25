@@ -175,7 +175,7 @@ h1 {
   text-align: right;
   white-space: nowrap;
   text-overflow: ellipsis;
-  color: green;
+  color: #FFD700;
 }
 
 .expression {
