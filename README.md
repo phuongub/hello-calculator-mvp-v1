@@ -1,4 +1,4 @@
-# Hello Calculator MVP v1.0
+# Hello Calculator MVP v1.01
 
 Một Web App calculator nhỏ phục vụ giảng dạy các khái niệm nền tảng:
 
