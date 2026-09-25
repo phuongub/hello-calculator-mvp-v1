@@ -175,7 +175,6 @@ h1 {
   text-align: right;
   white-space: nowrap;
   text-overflow: ellipsis;
-  color: #FFD700;
 }
 
 .expression {
@@ -189,7 +188,7 @@ h1 {
 .main-display {
   min-height: 72px;
   padding: 2px 14px 12px;
-  color: #111827;
+  color: #FFD700;
   font-size: clamp(2.25rem, 11vw, 3.4rem);
   font-variant-numeric: tabular-nums;
   font-weight: 750;
